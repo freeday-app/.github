@@ -1,3 +1,1 @@
-# Freeday
-
-> An open-source dayoff management app with chat bots
+![Freeday banner](../assets/banner.png)
