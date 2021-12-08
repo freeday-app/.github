@@ -10,4 +10,4 @@
 
 🧑‍🔧 Open-source and easy self-host
 
-📖 Check out the [documentation](https://freeday-app.github.io/freeday-doc/)
+📖 [Documentation](https://freeday-app.github.io/freeday-doc/)
