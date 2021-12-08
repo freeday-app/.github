@@ -8,6 +8,6 @@
 
 🎉 Notifications, scheduled reports, multi-language, and more
 
-🧑‍🔧 Open-source and easy self-host
+🧑‍🔧 Open-source and self-hostable
 
 📖 [Documentation](https://freeday-app.github.io/freeday-doc/)
